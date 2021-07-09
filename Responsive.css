@@ -1,0 +1,154 @@
+@media (min-width:992px) and (max-width:1140px){
+    .left-logo{
+        width: 26%;
+    }
+    .left-logo h1{
+        font-size: 34px;
+    }
+    .header-list{
+        width: 54%;
+    }
+
+    .banner-left h1 {
+        font-size: 50px;
+    }
+
+    .banner-left .title {
+        font-size: 24px;
+        position: relative;
+    }
+
+    .banner-left .title:after {
+        content: "";
+        position: absolute;
+        width: 49px;
+        height: 2px;
+        background-color: #fff;
+        left: 0%;
+        top: 70px;
+    }
+
+    .banner-left .text {
+        font-size: 14px;
+        padding: 41px 0;
+    }
+
+    .banner-right {
+        width: 49%;
+    }
+
+    form input {
+        margin: 9px 25px;
+    }
+    .social-left h5 {
+        font-size: 16px;
+    }
+
+    .social-left p {
+        font-size: 12px;
+    }
+
+    .social-right ul li {
+        padding: 9px 0;
+    }
+
+    .social-right {
+        width: 64%;
+    }
+
+    .tab-item .tab {
+        width: 93px;
+        height: 83px;
+        color: #fff;
+        text-align: center;
+        text-transform: uppercase;
+        line-height: 100px;
+        background-color: #363636;
+        margin-bottom: 1px;
+        margin-right: 34px;
+        transition: .5s;
+    }
+
+    .feature-right {
+        width: 44%;
+    }
+    .feature-2-right h4 {
+        font-size: 16px;
+        margin-bottom: 16px;
+        position: relative;
+    }
+    .feature-2-right h4::after {
+        content: "";
+        position: absolute;
+        width: 52px;
+        top: 24px;
+    }
+
+    .feature-2-left {
+        float: left;
+        width: 100%;
+    }
+
+    .feature-2-right {
+        float: left;
+        margin-top: 50px;
+        margin: 17px auto;
+        width: 58%;
+    }.feature-right-3 {
+        float: left;
+        width: 86%;
+        margin: 25px auto;
+    }
+
+    .process-title h2 {
+        font-size: 25px;
+        color: #444;
+        margin-bottom: 23px;
+        position: relative;
+    }
+    .process-title h2::after {
+        content: "";
+        position: absolute;
+        width: 42px;
+        height: 2px;
+        background-color: #ff8b38;
+        left: 47%;
+        top: 36px;
+    }
+
+    .our-process-wrapper p {
+        color: #666666;
+        font-size: 10px;
+    }
+    .process {
+        padding-top: 37px;
+        width: 27.33%;
+        display: inline-block;
+        text-align: center;
+    }
+    .pricing {
+        width: 27%;
+        text-align: center;
+        margin-top: 22px;
+        display: inline-block;
+        margin-right: 8px;
+    }
+    .customer {
+        width: 27%;
+        margin-top: -3px;
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+
+}
+
+
+
+@media (min-width:768px) and (max-width:991){
+    
+
+}}
+
+
+
